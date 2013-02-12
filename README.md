@@ -1,4 +1,4 @@
 NavegacaoAdaptativa
 ===================
 
-Tcc2
+Sistema desenvolvido na disciplina Tcc2
